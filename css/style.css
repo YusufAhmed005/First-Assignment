@@ -13,22 +13,19 @@ body{
     background-size: cover;
     padding: 175px 0px;
     text-align: center;
-
 }
 
 .Banner-section h1{
     font-weight: 700;
     font-size: 32px;
     color: #ffffff;
-   
 }
 .Banner-section p{
     font-size: 16px;
     color: #ffffff;
     padding-top: 35px;
     margin-bottom: 40px;
-    line-height: 30px;
-    
+    line-height: 30px;  
 }
 .Banner-section a{
     font-weight: 600;
@@ -44,4 +41,5 @@ body{
     background-color: transparent;
     transition: all 0.5s ;
 }
+
 /* ******** ******** {Banner-section  Css  End} ******** ******** */
