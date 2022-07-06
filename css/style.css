@@ -225,3 +225,67 @@ body{
     margin-right: 25px;
 }
 /* ******** ******** {OurDonation-section   Css  End} ******** ******** */
+
+
+/* ******   ****** {OurDonation-section   Css  End} ******  ****** */
+ .Updates-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.Updates-section h1{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.Updates-section p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.update{
+    width: 50%;
+    background-color: rgb(200, 248, 248);
+    margin: 0 auto;
+    padding: 75px 125px 75px 0px;
+}
+ .update input{
+    height: 50px;
+    width: 300px;
+    border: none; 
+     outline: none;
+    padding: 0px 25px;
+    border-radius: 5px 0px 0px 5px;
+    position: relative;
+}
+.update a{
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    height: 50px;
+    border: none;
+    width: 125px;
+    line-height: 50px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #d905fa; 
+}
+
+/* ****** ****** {OurDonation-section   Css  End} ****** ****** */
+
+/* ****** ****** {Footer-section   Css  End} ****** ****** */
+.Footer-section{
+    margin-top: 150px;
+    text-align: center;
+    background-color: #e59af0;
+    padding: 25px 0px;
+}
+.Footer-section h1{
+    font-size: 500;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+}
+.ptag{
+    margin-top: 15px;
+}
+
+/* ****** ****** {Footer-section   Css  End} ****** ****** */
