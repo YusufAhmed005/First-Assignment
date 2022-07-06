@@ -174,3 +174,54 @@ body{
     font-size: 16px;
 }
 /* ******** ******** {Plan-section  Css  End} ******** ******** */
+
+/* ******** ******** {OurDonation-section   Css  Start} ******** ******** */
+.OurDonation-section{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.OurDonation-section h1{
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 45px;
+}
+#rollone{
+    display: flex;
+    margin-bottom: 20px;
+}
+#one{
+    height: 400px;
+    width: 350px;
+    margin-left: 85px;
+}
+#two{
+    height: 400px;
+    width: 350px;
+    margin: 0px 15px;
+}
+#three{
+    height: 400px;
+    width: 350px;
+    margin-right: 25px;
+}
+#rolltwo{
+    display: flex;
+    margin-bottom: 20px;
+}
+#foure{
+    height: 400px;
+    width: 350px;
+    margin-left: 85px;
+}
+#five{
+    height: 400px;
+    width: 350px;
+    margin: 0px 15px;
+}
+#six{
+    height: 400px;
+    width: 350px;
+    margin-right: 25px;
+}
+/* ******** ******** {OurDonation-section   Css  End} ******** ******** */
