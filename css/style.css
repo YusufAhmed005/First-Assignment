@@ -227,7 +227,7 @@ body{
 /* ******** ******** {OurDonation-section   Css  End} ******** ******** */
 
 
-/* ******   ****** {OurDonation-section   Css  End} ******  ****** */
+/* ******   ****** {Updates-section   Css  End} ******  ****** */
  .Updates-section{
     text-align: center;
     margin-top: 50px;
@@ -270,9 +270,9 @@ body{
     background-color: #d905fa; 
 }
 
-/* ****** ****** {OurDonation-section   Css  End} ****** ****** */
+/* ****** ****** {OUpdates-section   Css  End} ****** ****** */
 
-/* ****** ****** {Footer-section   Css  End} ****** ****** */
+/* ****** ****** {Footer-section   Css  Start} ****** ****** */
 .Footer-section{
     margin-top: 150px;
     text-align: center;
